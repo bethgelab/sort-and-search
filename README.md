@@ -11,7 +11,7 @@ This repository contains algorithms developed for the paper:
 [[Bibtex](https://github.com/bethgelab/sort-and-search/#citation)]
 
 <p align="center">
-<a href="url"><img src="https://github.com/bethgelab/sort-and-search/blob/master/Process.png" height="300" width="381" ></a>
+<a href="url"><img src="https://github.com/bethgelab/sort-and-search/blob/main/Process.png" height="300" width="781" ></a>
 </p>
 
 ## Installation and Dependencies
