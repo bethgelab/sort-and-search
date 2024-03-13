@@ -3,7 +3,7 @@
 This repository contains algorithms developed for the paper:
 
 **Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress, Arxiv**  
-[Ameya Prabhu*](https://drimpossible.github.io), [Vishaal Udandarao*](https://vishaal27.github.io/) [Philip Torr](https://www.robots.ox.ac.uk/~phst/), [Matthias Bethge+](https://bethgelab.org/people/), [Adel Bibi+](https://www.adelbibi.com/), [Samuel Albanie+](https://samuelalbanie.com/)
+[Ameya Prabhu*](https://drimpossible.github.io), [Vishaal Udandarao*](https://vishaal27.github.io/), [Philip Torr](https://www.robots.ox.ac.uk/~phst/), [Matthias Bethge+](https://bethgelab.org/people/), [Adel Bibi+](https://www.adelbibi.com/), [Samuel Albanie+](https://samuelalbanie.com/)
 
 [[PDF](https://arxiv.org/abs/2402.19472)]
 [[Slides]()]
